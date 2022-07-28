@@ -1,0 +1,55 @@
+
+.inner-header {
+   background-color: #101010;
+   color: white;
+   height: 40px;
+   padding: 20px;
+}
+
+a {
+    text-decoration:none !important;
+}
+
+a:hover{
+   background-color: gray;
+   color: #101010;
+}
+
+.logo {
+    padding: 10px 2% ;
+    font-size: 30px;
+    margin-left: 12px;
+}
+
+.navigation{
+    float: right;
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+#content {
+    padding: 20px 20%;
+    overflow: hidden;
+}
+#content h1 {
+    display: block;
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 26px;
+}
+#content .main_page_img {
+    display: block;
+    float: left;
+    margin-right: 2%;
+
+}
+#content .main_page_text {
+    display: block;
+    text-align: justify;
+
+}
+
+
+
